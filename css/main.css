@@ -76,3 +76,22 @@ html {
     background-position-x: 390px;
   }
 }
+
+
+/*about us page*/
+.width{
+  margin-top: 50px;
+  max-width: 1000px;
+  margin-left: 240px;
+  padding: 20px
+
+}
+.our_text{
+  max-width: 600px;
+  margin: 40px auto;
+}
+
+.logo_img{
+  margin-top: -25px;
+  margin-left: 280px;
+}
