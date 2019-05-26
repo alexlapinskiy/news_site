@@ -95,3 +95,34 @@ html {
   margin-top: -25px;
   margin-left: 280px;
 }
+
+/*team page*/
+.ceo_img{
+  margin-top: -50px;
+}
+
+.girl_team{
+  margin-left: -20px;
+}
+
+.boy_team{
+  margin-top: -525px;
+  margin-left: 400px;
+}
+.text1{
+  margin-top: -100px;
+  margin-left: 250px;
+}
+.text1 .teammate1{
+  font-size: x-large;
+
+}
+
+.text2{
+  margin-top: -165px;
+  margin-left: 620px;
+
+}
+.text2 .teammate2{
+  font-size: x-large;
+}
